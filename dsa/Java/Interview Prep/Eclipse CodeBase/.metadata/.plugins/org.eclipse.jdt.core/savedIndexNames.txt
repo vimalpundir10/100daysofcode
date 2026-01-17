@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/home/vimal/Documents/Interview Prep/Eclipse CodeBase/.metadata/.plugins/org.eclipse.jdt.core
+3362970147.index
+1865797976.index
+2776496895.index
+552048828.index
